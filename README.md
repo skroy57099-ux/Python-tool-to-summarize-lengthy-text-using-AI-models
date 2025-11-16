@@ -3,7 +3,7 @@ AI-Powered Text Summarization Tool in Python (Google Colab)
 
 This project is a beginner-friendly, Python-based tool for automatic text summarization, implemented in Google Colab. It leverages Hugging Face’s Transformers library and state-of-the-art pre-trained models (such as BART or T5) to generate concise summaries from long texts. The tool allows users to input lengthy documents, articles, or paragraphs and get a short, clear summary highlighting the main points.
 
-Key Features:
+# Key Features:
 
 Uses pre-trained transformer models for accurate summarization.
 
@@ -15,13 +15,13 @@ Easily customizable for different summary lengths or input formats.
 
 Runs directly in the cloud on Google Colab; no local setup needed.
 
-Technologies Used:
+# Technologies Used:
 
 Python (Google Colab)
 
 Hugging Face Transformers (pipeline API)
 
-How It Works:
+# How It Works:
 
 Install the Transformers library in Google Colab.
 
@@ -31,7 +31,7 @@ Input the text you want to summarize.
 
 Generate and display the summary.
 
-Use Cases:
+# Use Cases:
 
 Summarizing news articles, research papers, or long documents.
 
