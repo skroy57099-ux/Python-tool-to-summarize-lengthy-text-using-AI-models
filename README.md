@@ -1,4 +1,3 @@
-# Python-tool-to-summarize-lengthy-text-using-AI-models
 # NLP Project – AI-Powered Text Summarization Tool using Transformers
 AI-Powered Text Summarization Tool in Python (Google Colab)
 
